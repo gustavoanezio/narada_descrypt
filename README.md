@@ -38,17 +38,17 @@ Converter binário para string ➝ O texto binário é convertido de volta para 
 ## 🛠️ Como Executar?
 
 Clone este repositório:
-
+```
 git clone https://github.com/gustavoanezio/narada_decrypt.git
-
+```
 Navegue até o diretório do projeto:
-
+```
 cd seu-repositorio/
-
+```
 Execute o script:
 
-python3 narada.py para executar o software de criptografia ou
-python3 desc_narada.py para o processo de reversão.
+```python3 narada.py``` para executar o software de criptografia ou
+```python3 desc_narada.py``` para o processo de reversão.
 
 Insira a string criptografada em Base64 quando solicitado.
 
